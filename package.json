@@ -1,0 +1,23 @@
+{
+  "name": "ramcoin",
+  "version": "1.0.0",
+  "description": "CSU RAMCOIN token and crowdsale",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.0",
+    "ethereum-waffle": "^3.2.2",
+    "ethers": "^5.0.31",
+    "hardhat": "^2.1.1",
+    "openzeppelin-solidity": "^1.10"
+  }
+}
